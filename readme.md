@@ -23,6 +23,7 @@ WIP curated list of integration tools
 ## Hosted many-to-many SAAS
 
 * https://cloudwork.com
+* https://automate.io/integrations
 
 ## Pub/Sub Pipeline
 
