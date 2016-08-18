@@ -37,4 +37,8 @@ WIP curated list of integration tools
 ## SAAS Consumer
 
 * http://botize.com
-* 
+
+## Warehousing
+
+* https://www.alooma.com
+* https://www.fivetran.com/
