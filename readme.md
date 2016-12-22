@@ -13,6 +13,7 @@ WIP curated list of integration tools
 
 * http://www.celigo.com/
 * http://www.jitterbit.com/
+* http://xplenty.com
 * http://usermind.com
 * http://www.spscommerce.com - edi
 * https://www.informatica.com/cloud.html#fbid=7i-ScNlF1uV
