@@ -25,6 +25,7 @@ WIP curated list of integration tools
 
 * https://cloudwork.com
 * https://automate.io/integrations
+* https://www.built.io
 
 ## Pub/Sub Pipeline
 
