@@ -27,6 +27,8 @@ WIP curated list of integration tools
 * https://automate.io/integrations
 * https://www.built.io
 * https://cenit.io/
+* http://cloudpipes.com/
+* https://zapier.com
 
 ## Pub/Sub Pipeline
 
