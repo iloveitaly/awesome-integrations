@@ -8,6 +8,7 @@ WIP curated list of integration tools
 ## SAAS One-to-One
 
 * https://www.farapp.com
+* http://rocketweb.com/products/netsuite-connector-for-magento
 
 ## SAAS Many-to-many
 
@@ -19,6 +20,7 @@ WIP curated list of integration tools
 * https://www.informatica.com/cloud.html#fbid=7i-ScNlF1uV
 * https://www.talend.com/products/data-integration
 * https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration
+* http://www.stedi.com
 * pentaho.com -etl tool
 
 ## Hosted many-to-many SAAS
