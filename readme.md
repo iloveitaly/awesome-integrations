@@ -29,6 +29,7 @@ WIP curated list of integration tools
 * https://cenit.io/
 * http://cloudpipes.com/
 * https://zapier.com
+* https://actian.com
 
 ## Pub/Sub Pipeline
 
