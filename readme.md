@@ -51,3 +51,4 @@ WIP curated list of integration tools
 * https://www.alooma.com
 * https://www.fivetran.com/
 * https://www.matillion.com
+* https://www.stitchdata.com/
