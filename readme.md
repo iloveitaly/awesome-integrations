@@ -22,6 +22,7 @@ WIP curated list of integration tools
 * https://www.mulesoft.com/platform/saas/cloudhub-ipaas-cloud-based-integration
 * http://www.stedi.com
 * pentaho.com -etl tool
+* https://syncapps.cazoomi.com
 
 ## Hosted many-to-many SAAS
 
