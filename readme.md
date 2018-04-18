@@ -42,7 +42,6 @@ WIP curated list of integration tools
 ## Node / micro
 
 * http://hoist.io/
-* 
 
 ## SAAS Consumer
 
@@ -54,3 +53,4 @@ WIP curated list of integration tools
 * https://www.fivetran.com/
 * https://www.matillion.com
 * https://www.stitchdata.com/
+* https://www.talend.com
