@@ -23,6 +23,7 @@ WIP curated list of integration tools
 * http://www.stedi.com
 * pentaho.com -etl tool
 * https://syncapps.cazoomi.com
+* https://www.piesync.com
 
 ## Hosted many-to-many SAAS
 
