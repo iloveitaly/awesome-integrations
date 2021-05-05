@@ -1,10 +1,5 @@
 WIP curated list of integration tools
 
-## Smart Pipe
-
-* [Cangaroo](https://github.com/nebulab/cangaroo). Wombat-compatible open source replacement.
-
-
 ## SAAS One-to-One
 
 * https://www.farapp.com
@@ -35,9 +30,15 @@ WIP curated list of integration tools
 * https://zapier.com
 * https://actian.com
 
-## Pub/Sub Pipeline
+## White-label Many-to-many SaaS
 
-* Kafka
+* https://www.codat.io
+* https://cloud-elements.com
+
+## Open Source Libraries
+
+* https://www.moderntreasury.com/journal/updating-the-ledgersync-license
+* [Cangaroo](https://github.com/nebulab/cangaroo). Wombat-compatible open source replacement.
 
 ## Node / micro
 
