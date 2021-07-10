@@ -55,3 +55,8 @@ WIP curated list of integration tools
 * https://www.matillion.com
 * https://www.stitchdata.com/
 * https://www.talend.com
+
+## Accounting
+
+* https://www.brightpearl.com
+* https://www.blueonionlabs.com
