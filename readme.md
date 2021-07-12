@@ -60,3 +60,4 @@ WIP curated list of integration tools
 
 * https://www.brightpearl.com
 * https://www.blueonionlabs.com
+* https://www.modularity.ai
