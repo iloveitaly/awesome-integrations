@@ -29,6 +29,7 @@ WIP curated list of integration tools
 * http://cloudpipes.com/
 * https://zapier.com
 * https://actian.com
+* https://cloudsnap.com
 
 ## White-label Many-to-many SaaS
 
