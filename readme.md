@@ -38,7 +38,8 @@ WIP curated list of integration tools
 
 ## Open Source Libraries
 
-* https://www.moderntreasury.com/journal/updating-the-ledgersync-license
+* https://www.ledgersync.dev
+* https://github.com/NetSweet/netsuite
 * [Cangaroo](https://github.com/nebulab/cangaroo). Wombat-compatible open source replacement.
 
 ## Node / micro
