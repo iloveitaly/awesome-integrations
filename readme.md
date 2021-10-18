@@ -2,7 +2,7 @@ WIP curated list of integration tools
 
 ## SAAS One-to-One
 
-* https://www.farapp.com
+* https://www.farapp.com acquired by Oracle
 * http://rocketweb.com/products/netsuite-connector-for-magento
 
 ## SAAS Many-to-many
@@ -19,6 +19,7 @@ WIP curated list of integration tools
 * pentaho.com -etl tool
 * https://syncapps.cazoomi.com
 * https://www.piesync.com
+* https://www.informatica.com enterprise
 
 ## Hosted many-to-many SAAS
 
