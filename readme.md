@@ -20,6 +20,7 @@ WIP curated list of integration tools
 * https://syncapps.cazoomi.com
 * https://www.piesync.com
 * https://www.informatica.com enterprise
+* https://www.novamodule.com
 
 ## Hosted many-to-many SAAS
 
