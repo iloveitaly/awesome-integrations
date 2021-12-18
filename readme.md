@@ -18,7 +18,7 @@ WIP curated list of integration tools
 * http://www.stedi.com
 * pentaho.com -etl tool
 * https://syncapps.cazoomi.com
-* https://www.piesync.com
+* https://www.piesync.com aquired and shutdown
 * https://www.informatica.com enterprise
 * https://www.novamodule.com
 * https://outfunnel.com
