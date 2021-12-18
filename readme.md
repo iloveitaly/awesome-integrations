@@ -4,6 +4,7 @@ WIP curated list of integration tools
 
 * https://www.farapp.com acquired by Oracle
 * http://rocketweb.com/products/netsuite-connector-for-magento
+* https://suitesync.io/ acquired by Sripe
 
 ## SAAS Many-to-many
 
