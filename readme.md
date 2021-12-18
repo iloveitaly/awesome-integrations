@@ -21,6 +21,7 @@ WIP curated list of integration tools
 * https://www.piesync.com
 * https://www.informatica.com enterprise
 * https://www.novamodule.com
+* https://outfunnel.com
 
 ## Hosted many-to-many SAAS
 
