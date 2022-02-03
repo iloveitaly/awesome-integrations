@@ -35,6 +35,7 @@ WIP curated list of integration tools
 * https://actian.com
 * https://cloudsnap.com
 * https://tray.io
+* https://www.bardeen.ai
 
 ## White-label Many-to-many SaaS
 
