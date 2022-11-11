@@ -37,6 +37,7 @@ WIP curated list of integration tools
 * https://tray.io
 * https://www.bardeen.ai
 * https://www.integrate.io
+* https://linx.software
 
 ## White-label Many-to-many SaaS
 
