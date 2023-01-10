@@ -58,13 +58,14 @@ WIP curated list of integration tools
 
 * http://botize.com
 
-## Warehousing
+## Warehousing / ETL
 
 * https://www.alooma.com
 * https://www.fivetran.com/
 * https://www.matillion.com
 * https://www.stitchdata.com/
 * https://www.talend.com
+* https://airbyte.com/
 
 ## Accounting
 
