@@ -66,6 +66,7 @@ WIP curated list of integration tools
 * https://www.stitchdata.com/
 * https://www.talend.com
 * https://airbyte.com/
+* https://hevodata.com
 
 ## Accounting
 
