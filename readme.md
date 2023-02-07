@@ -69,6 +69,11 @@ WIP curated list of integration tools
 * https://hevodata.com
 * https://www.rudderstack.com
 
+## Visualization / Querying
+
+* https://www.thoughtspot.com
+
+
 ## Accounting
 
 * https://www.brightpearl.com
