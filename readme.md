@@ -72,6 +72,7 @@ WIP curated list of integration tools
 ## Visualization / Querying
 
 * https://www.thoughtspot.com
+* https://observablehq.com
 
 
 ## Accounting
