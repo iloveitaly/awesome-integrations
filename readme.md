@@ -23,6 +23,7 @@ WIP curated list of integration tools
 * https://www.informatica.com enterprise
 * https://www.novamodule.com
 * https://outfunnel.com
+* https://www.lume-ai.com - ai enabled integrations
 
 ## Hosted many-to-many SAAS
 
