@@ -23,9 +23,8 @@ WIP curated list of integration tools
 * https://www.informatica.com enterprise
 * https://www.novamodule.com
 * https://outfunnel.com
-* https://www.lume-ai.com - ai enabled integrations
 
-## Hosted many-to-many SAAS
+## Hosted SaaS Many-to-many
 
 * https://cloudwork.com
 * https://automate.io/integrations
@@ -39,6 +38,8 @@ WIP curated list of integration tools
 * https://www.bardeen.ai
 * https://www.integrate.io
 * https://linx.software
+* https://merge.dev
+* https://www.lume-ai.com - ai enabled integrations
 
 ## White-label Many-to-many SaaS
 
