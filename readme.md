@@ -70,6 +70,7 @@ WIP curated list of integration tools
 * https://airbyte.com/
 * https://hevodata.com
 * https://www.rudderstack.com
+* https://estuary.dev
 
 ## Visualization / Querying
 
